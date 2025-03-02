@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: node-app
-          image: vpolachi/nodeappv:7
+          image: dockerr2021/nodeappv:7
           ports:
             - containerPort: 3000
