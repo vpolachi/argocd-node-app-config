@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: node-app
-          image: dockerr2021/examplenode-dev:12
+          image: dockerr2021/examplenode-dev:4
           ports:
             - containerPort: 3000
