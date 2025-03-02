@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: node-app
-          image: vpolachi/examplenode-dev:5
+          image: vpolachi/dockerimage:6
           ports:
             - containerPort: 3000
